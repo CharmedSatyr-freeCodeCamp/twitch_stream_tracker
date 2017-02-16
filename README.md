@@ -1,4 +1,4 @@
-# **Twitch.tv_Viewer**
+# **Twitch Stream Tracker**
 ### **"Use the Twitch.tv JSON API"** is a requirement for freeCodeCamp Front End Certification: https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api
 #### **Date Completed**: Mar 18, 2016
 
