@@ -1,5 +1,5 @@
 //Add a twitcher here, and everything else will automatically update
-var twitchers = ['freeCodeCamp', 'food', 'Bethesda', 'Boogie2988', 'GopherGaming', 'TotalBiscuit', 'brunofin', 'comster404'];
+var twitchers = ['freeCodeCamp', 'food', 'CouchWarriorTV', 'Boogie2988', 'GopherGaming', 'TotalBiscuit', 'Bethesda',  'brunofin', 'comster404'];
 
 //This creates a new html spot when a twitcher is added
 var spot = '';
