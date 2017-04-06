@@ -10,8 +10,7 @@
 }
 
 html, body {
-  background: rgba(100, 65, 165, 1);
-  background: url('../images/Teamfight-Fan-Art.jpg') no-repeat top center;
+  background: rgba(100, 65, 165, 1) url('../images/Teamfight-Fan-Art.jpg') no-repeat top center;
   color: black;
   font-family: 'Montserrat', sans-serif;
   font-size: 100%;

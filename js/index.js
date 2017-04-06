@@ -6,7 +6,7 @@ var twitchers = [
     'Boogie2988',
     'GopherGaming',
     'Bethesda',
-    'brunofin',
+    'lexyeevee',
     'comster404'
 ];
 
