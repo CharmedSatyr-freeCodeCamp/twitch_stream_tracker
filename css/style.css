@@ -11,12 +11,17 @@
 
 html, body {
   background: rgba(100, 65, 165, 1);
+  background: url('../images/Teamfight-Fan-Art.jpg') no-repeat top center;
   color: black;
   font-family: 'Montserrat', sans-serif;
-  font-size: 90%;
+  font-size: 100%;
   font-weight: 400;
-  margin: 2% 12% 2% 12%;
+  padding: 2% 12% 2% 12%;
   text-align: center;
+}
+
+body {
+  background: transparent;
 }
 
 a, a:hover, a:active {
@@ -50,7 +55,7 @@ img {
 
 .channel_online, .channel_offline, .channel_disabled {
   margin: 1% 0% 1% 0%;
-  padding: 1% 1% 1% 1%;
+  padding: 1%;
 }
 
 .channel_online {
@@ -66,4 +71,6 @@ img {
 .channel_offline {
   background: lightgray;
   background: rgba(100, 65, 165, 1);
+  color: #ffffff;
+  text-shadow: 0 0 1px #000000;
 }
